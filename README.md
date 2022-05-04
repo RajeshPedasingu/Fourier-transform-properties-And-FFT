@@ -1,5 +1,6 @@
 # Fourier-transform-properties-And-FFT
-in this we will Verify the All properties of Fourier transform using function of MATLAB fft
+1)in this we will Verify the All properties of Fourier transform using function of MATLAB fft.
+
 Generate the rectangular pulse signal of appropriate size. Use MATLAB function fft to find the Fourier transform.
 Generate a sinusoidal signal of length 0.5 seconds with frequency 100Hz, sampled at 8000Hz. Plot the magnitude and phase spectrum of the Fourier transform.
 Generate a Gaussian function with zero mean and variance 1. Plot the magnitude spectrum of the Fourier transform of the signal.
